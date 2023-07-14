@@ -5,10 +5,10 @@ Link to unlisted YouTube video:
 https://youtube.com/playlist?list=PLVxFIK_VR8L-wBhBamJf6QidCWvODBIII
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1twmUGHOdXOYitl6ZvKFSyeI6xBO_2b0qNvw2aPhYDfM/edit?usp=sharing
+https://docs.google.com/presentation/d/1InF259yn6o0ECaxwi1KzEsg9eRUOgxMrDEtlJND8WA0/edit?usp=sharing
 
 Project title:
-Sentiment Analysis of Restaurant Reviews using an Improved NLP Technique
+Comparative Analysis of Human Stress Prediction Using Multi-Models Natural Language Processing System
 
 Group Number:
 12
