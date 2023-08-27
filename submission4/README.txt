@@ -8,7 +8,7 @@ Paper title:
 Comparative Analysis of Human Stress Prediction Using Multi-Models Natural Language Processing System
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1Gv_HrYfezXLvbhg31qblLRMIdFABfFDhFXrUC_hfmE0/edit?usp=sharing
 
 Group Number:
 12
