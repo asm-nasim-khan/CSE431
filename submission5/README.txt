@@ -8,7 +8,7 @@ Paper title:
 Partially automated exam answer script checking for Intro to Marketing
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1BYwRaGkQh6C0D__WhJKd1n4D0oe7a97udY8Ex6Y6TIs/edit?usp=sharing
 
 Group Number:
 0
