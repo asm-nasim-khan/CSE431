@@ -5,10 +5,10 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Paper title:
-NLP using ANN
+Sentiment Analysis: It’s Complicated!
 
 Link to the paper:
-https://ieeexplore......
+https://aclanthology.org/N18-1171/
 
 Group Number:
 12
