@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/5968372192drfkdgsshhfd
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/-hfQCQ03OUM
 
 Paper title:
 Comparative Analysis of Human Stress Prediction Using Multi-Models Natural Language Processing System
