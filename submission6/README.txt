@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Comparative Analysis of Human Stress Prediction Using Multi-Models Natural Language Processing System
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1pfe8XUYLvEQuBp5-JK7Oz6hFMWxgi8-6_ArKCSUoFj4/edit#slide=id.g23ee93e246d_0_739
