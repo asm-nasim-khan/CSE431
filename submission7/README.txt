@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/3632775528fnvtvhgttktn
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/IXES9y9RGTc
 
 Conference submitted paper / paper submission / login Link:
 https://easy....
@@ -11,7 +11,7 @@ Paper title:
 Hotel review analysis on machine learning and deep learning based on pre-trained Glove Embedding
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/12mU7bbsan7T4iZnjV-khZrNgjrZCoGyhE9S1JHg7yhk/edit#slide=id.g1f87997393_0_782
 
 Paper submission date (to workshop/conference):
 
